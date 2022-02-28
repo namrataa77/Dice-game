@@ -16,16 +16,16 @@ body {
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Bodoni Moda', serif;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 5rem;
+  color: #9ADCFF;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  font-size: 1rem;
+  color: #9ADCFF;
+  font-family: 'Rubik', sans-serif;
 }
 
 img {
@@ -38,4 +38,13 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+
+
+button{
+  margin-left: 625px;
+  margin-top: 50px;
+  width: 150px;
+  height: 60px;
+  color: #FFF89A;
 }
